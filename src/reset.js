@@ -1,4 +1,4 @@
-const pattern = /ㅠ/g
+const pattern = /ㅜ|ㅠ/g
 const replacement = ''
 
 function replaceInText(element) {
